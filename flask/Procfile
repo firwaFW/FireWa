@@ -1,0 +1,1 @@
+web: gunicorn app:fire_WA.py
